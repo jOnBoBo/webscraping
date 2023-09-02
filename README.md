@@ -1,4 +1,3 @@
-# **Overview**
 
 ## Puzzle Usage Tracker
 
